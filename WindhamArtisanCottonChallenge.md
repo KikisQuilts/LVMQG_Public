@@ -22,7 +22,4 @@ timeline
     May 22nd : Windham Artisan Cotton Challenge palette is revealed.
          : Time to order bolts.
          : [Jen] order wholesale, 2 bolts of each color, 12 total. Payment, shipping notification
-    2004 : Facebook
-    2005 : Youtube
-    2006 : Twitter
 ```
