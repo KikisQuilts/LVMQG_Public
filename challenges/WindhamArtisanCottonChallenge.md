@@ -37,14 +37,14 @@ timeline
     May 22nd : Windham Artisan Cotton Challenge palette is revealed.
          : Time to order bolts.
          : [Contact Jen] order wholesale, 2 bolts of each color, 12 total. Payment, shipping notification
-         : [LVMQG monthly meeting]  reveal challenge details
+         : [LVMQG monthly meeting] Present challenge details
     June : [LVMQG monthly meeting] Distribute materials?
-    July : .
+    July : Scout exhibit location 
         :
          : Distribute materials
          : Decide award categories & prizes
     August : [LVMQG monthly meeting] reveal awards, promote participation
-        :
+        : Secure exhibit location
         :
         : Create Google form - collect makers info on challenge quilts. Quilt name, pattern info, size, techniques used, description
         : Create Google form - collect makers info on non-judged quilts
@@ -52,7 +52,7 @@ timeline
     
     September : Acquire prizes
         : Start marketing
-        : Create award ribbons
+        : Produce award ribbons
         : Create physical posters for exhibit 
         : Create & distribute digital exhibit flyers ie.square image for instagram promo
     October : Create ballot box design. size __"x__"
@@ -84,9 +84,9 @@ Items to have on day 1 of show: Hanging quilts
 * poster - description of challenge
 * poster - who LVMQG is
 * table signages 
-* A notebook for viewes to sign + pen
+* A notebook for viewes to sign + pen. Collect emails.
 * LVMQG flyers
-* LVMQG official quilt (signage with patterndesign, maker and quilter info)
+* LVMQG official quilt (signage with pattern design, maker and quilter info)
 * folding table
 * table cloth
 * ladder
@@ -96,12 +96,17 @@ Items to have on day 1 of show: Hanging quilts
 * posters
 
 Promotion Action Plan
+* Email past year's attendees from LVMQG account
 * Facebook - other guilds
 * Nearby local quilt shops 
 * LVMQG blog
 * Local news
 * Local newspapers
 * Podcasts, youtubers, local libraries
+
+Exhibit Location Contact
+
+Sew Yeah Quilting Class Event Coordinator - Kartor 725-250-0887
 
 ### Who, What, When
 
