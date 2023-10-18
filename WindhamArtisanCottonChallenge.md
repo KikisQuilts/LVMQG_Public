@@ -16,8 +16,7 @@ $11/yd, No free shipping at Sewtopia
 
 ____________________
 
-
-:::mermaid
+```mermaid
 timeline
     title Action Plan
     May 22nd : Windham Artisan Cotton Challenge palette is revealed.
@@ -26,4 +25,4 @@ timeline
     2004 : Facebook
     2005 : Youtube
     2006 : Twitter
-:::
+```
