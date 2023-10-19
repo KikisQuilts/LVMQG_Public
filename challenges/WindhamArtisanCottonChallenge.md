@@ -8,10 +8,19 @@
 
 ![Windham Fabrics](https://quiltcon.com/wp-content/uploads/WF_Logo_H_black-300x66.png)
 
+
+<details open><summary>Rules</summary>
+
 Fabric Challenge quilts must use at least 3 of the 6 challenge fabrics — no other fabrics may be used on the front of the quilts.
 If the binding is visible from the front of the quilt, it must be in one of the palette fabrics — the backing may be any fabric. If the quilt is faced and does not have binding that appears on the front of the quilt, the facing can be of any fabric.
 Size restrictions follow the same standard as all QuiltCon quilts — there is no minimum size — there is a maximum of 440″ total perimeter (with no single side larger than 110″).
 Quilt entries will be open from September 1 to October 31, 2023 (the same as all QuiltCon show entries).
+</details>
+
+
+
+<details>
+<summary>Links</summary>
 
 ![Hancocks](https://www.hancocks-paducah.com/Images/Global/logo/logo1.png)
 
@@ -23,13 +32,14 @@ https://www.sewtopia.com/product-tag/windham-artisan-cotton-2024-challenge/
 
 $11/yd, No free shipping at Sewtopia (as of 2023)
 
+</details>
 
 
 ___
 
 ## Action Plan
 
-### Timeline
+<details><summary>Timeline</summary>
 
 ```mermaid
 timeline
@@ -67,8 +77,12 @@ timeline
         : Schedule & execute award reception on last day
         : Schedule quilt drop off time & location
         : Schedule quilt pick ups
-
 ```
+</details>
+
+
+
+<details><summary>Item Checklist</summary>
 
 Items to have on day 1 of show: Hanging quilts
 * index cards
@@ -94,8 +108,12 @@ Items to have on day 1 of show: Hanging quilts
 * ballots
 * pens
 * posters
+</details>
 
-Promotion Action Plan
+
+
+<details><summary>Promotion Action Plan</summary>
+
 * Email past year's attendees from LVMQG account
 * Facebook - other guilds
 * Nearby local quilt shops 
@@ -104,11 +122,11 @@ Promotion Action Plan
 * Local newspapers
 * Podcasts, youtubers, local libraries
 
-Exhibit Location Contact
+</details>
 
-Sew Yeah Quilting Class Event Coordinator - Kartor 725-250-0887
 
-Ideas for future exhibits
+
+<details><summary>Ideas for future exhibits</summary>
 
 * Monthly block challenge turns into a collection of themed mini quilts. 
 * Traveling quilt exhibits from one location to another
@@ -123,8 +141,11 @@ Google Form Maker Info
 * Tecnhniques used
 * Description
 
+</details>
 
-### Who, What, When
+
+
+<details><summary>Who, What, When</summary>
 
 ```mermaid
 journey
@@ -138,5 +159,15 @@ journey
       Go downstairs: 0: Yukino
       Sit down: 0: Yukino
     section Post Show
-
 ```
+</details>
+
+
+
+
+<details open><summary>Exhibit Location Contact</summary>
+
+> Sew Yeah Quilting Class Event Coordinator
+>    - Kartor 725-250-0887
+
+</details>
