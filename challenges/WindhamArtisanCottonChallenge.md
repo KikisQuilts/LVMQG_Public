@@ -41,13 +41,13 @@ timeline
     June : [LVMQG monthly meeting] Distribute materials?
     July : Scout exhibit location 
         :
-         : Distribute materials
+         [LVMQG monthly meeting] Distribute materials
          : Decide award categories & prizes
     August : [LVMQG monthly meeting] reveal awards, promote participation
         : Secure exhibit location
         :
-        : Create Google form - collect makers info on challenge quilts. Quilt name, pattern info, size, techniques used, description
-        : Create Google form - collect makers info on non-judged quilts
+        : Create & distribute Google form - collect makers info on challenge quilts. Quilt name, pattern info, size, techniques used, description
+        : Create & distribute Google form - collect makers info on non-judged quilts
 
     
     September : Acquire prizes
@@ -86,7 +86,7 @@ Items to have on day 1 of show: Hanging quilts
 * table signages 
 * A notebook for viewes to sign + pen. Collect emails.
 * LVMQG flyers
-* LVMQG official quilt (signage with pattern design, maker and quilter info)
+* LVMQG official quilt (hang signage with pattern design, maker and quilter info)
 * folding table
 * table cloth
 * ladder
