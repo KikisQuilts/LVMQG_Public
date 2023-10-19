@@ -108,6 +108,22 @@ Exhibit Location Contact
 
 Sew Yeah Quilting Class Event Coordinator - Kartor 725-250-0887
 
+Ideas for future exhibits
+
+* Monthly block challenge turns into a collection of themed mini quilts. 
+* Traveling quilt exhibits from one location to another
+
+Google Form Maker Info
+
+* First & last name
+* Quilt name
+* Pattern info: original, purchased
+* Quilt size
+* Quilted by: domestic, longarm, hand, E2E, free motion, stencil, ruler guided
+* Tecnhniques used
+* Description
+
+
 ### Who, What, When
 
 ```mermaid
